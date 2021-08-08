@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoveIt</title>
+        <link>leechor.github.io/</link>
+        <description>About LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 08 Aug 2021 08:58:12 &#43;0800</lastBuildDate>
+            <atom:link href="leechor.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Demo</title>
+    <link>leechor.github.io/demo/</link>
+    <pubDate>Sun, 08 Aug 2021 08:58:12 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>leechor.github.io/demo/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
