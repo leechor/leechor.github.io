@@ -1,4 +1,4 @@
-baseurl = "https://licho.github.io"
+baseurl = ""
 languageCode = "en-us"
 title = "npf.io"
 theme = "hyde"
