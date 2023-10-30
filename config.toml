@@ -1,4 +1,23 @@
-baseURL = 'https://leechor.github.io'
-languageCode = 'en-us'
-title = 'Licho Suns Home'
-theme = "ananke"
+baseurl = "https://licho.github.io"
+languageCode = "en-us"
+title = "npf.io"
+theme = "hyde"
+copyright = "Nate Finch"
+
+[Author]
+	name = "Nate Finch"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = "code by Nate Finch"
+	disqus = "npfio"
+	mainImage = "/moose.svg"
+
