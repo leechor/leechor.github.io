@@ -1,11 +1,11 @@
 baseurl = "https://leechor.github.io/"
 languageCode = "en-us"
-title = "npf.io"
+title = "Licho Space"
 theme = "hyde"
-copyright = "Nate Finch"
+copyright = "Licho Space"
 
 [Author]
-	name = "Nate Finch"
+	name = "Licho Space"
 
 [Permalinks]
 	blog = "/:year/:month/:filename/"
@@ -17,7 +17,7 @@ copyright = "Nate Finch"
 	series-desc = "series-desc"
 
 [params]
-	description = "code by Nate Finch"
-	disqus = "npfio"
+	description = "code by Licho Space"
+	disqus = "licho"
 	mainImage = "/moose.svg"
 
